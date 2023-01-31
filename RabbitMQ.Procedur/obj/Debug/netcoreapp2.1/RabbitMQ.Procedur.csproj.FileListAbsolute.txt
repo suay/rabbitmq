@@ -1,0 +1,13 @@
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\bin\Debug\netcoreapp2.1\RabbitMQ.Procedur.deps.json
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\bin\Debug\netcoreapp2.1\RabbitMQ.Procedur.runtimeconfig.json
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\bin\Debug\netcoreapp2.1\RabbitMQ.Procedur.runtimeconfig.dev.json
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\bin\Debug\netcoreapp2.1\RabbitMQ.Procedur.dll
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\bin\Debug\netcoreapp2.1\RabbitMQ.Procedur.pdb
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.csproj.AssemblyReference.cache
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.AssemblyInfoInputs.cache
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.AssemblyInfo.cs
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.csproj.CoreCompileInputs.cache
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.dll
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.pdb
+C:\Users\wattawadee\source\repos\RabbitMQ.Procedur\RabbitMQ.Procedur\obj\Debug\netcoreapp2.1\RabbitMQ.Procedur.genruntimeconfig.cache
